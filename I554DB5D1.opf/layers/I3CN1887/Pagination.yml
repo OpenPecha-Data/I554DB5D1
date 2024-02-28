@@ -1,0 +1,274 @@
+id: 8aac041cf7714087b1e6f1a44b851712
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  83300315b54742b7bef1cd449d92a556:
+    span:
+      start: 0
+      end: 566
+    imgnum: 1
+    reference: I3CN18870001.tif
+  59fa9ff6ec0f46239970efac29dbe135:
+    span:
+      start: 567
+      end: 634
+    imgnum: 3
+    reference: I3CN18870003.jpg
+  591974d07e8449a58a516c751e633910:
+    span:
+      start: 635
+      end: 731
+    imgnum: 4
+    reference: I3CN18870004.jpg
+  f92d5faf7381448992a7df56d3f1fa8d:
+    span:
+      start: 732
+      end: 1124
+    imgnum: 5
+    reference: I3CN18870005.jpg
+  bf561227833345e0a435c1f4b81deb38:
+    span:
+      start: 1125
+      end: 1763
+    imgnum: 6
+    reference: I3CN18870006.jpg
+  be77275379f8406db6803a891bc490b4:
+    span:
+      start: 1764
+      end: 2620
+    imgnum: 7
+    reference: I3CN18870007.jpg
+  43295be8978049c883e855da3f42f836:
+    span:
+      start: 2621
+      end: 3564
+    imgnum: 8
+    reference: I3CN18870008.jpg
+  6c1ac96883bb4657bd98c266b3816659:
+    span:
+      start: 3565
+      end: 4416
+    imgnum: 9
+    reference: I3CN18870009.jpg
+  9ce9289297c247c0b3db279b41d89b10:
+    span:
+      start: 4417
+      end: 5294
+    imgnum: 10
+    reference: I3CN18870010.jpg
+  159c85c0e1c94193aa744009f08aa71a:
+    span:
+      start: 5295
+      end: 6199
+    imgnum: 11
+    reference: I3CN18870011.jpg
+  0115b767ddd5405da5608fd9d0febaed:
+    span:
+      start: 6200
+      end: 7044
+    imgnum: 12
+    reference: I3CN18870012.jpg
+  6061c936c8f64b44978b3b9d71867b1f:
+    span:
+      start: 7045
+      end: 7867
+    imgnum: 13
+    reference: I3CN18870013.jpg
+  0b193b200c804e4295480d3dd3d615a4:
+    span:
+      start: 7868
+      end: 8732
+    imgnum: 14
+    reference: I3CN18870014.jpg
+  7169724de1bb45069c5a890441d069e8:
+    span:
+      start: 8733
+      end: 9609
+    imgnum: 15
+    reference: I3CN18870015.jpg
+  8f1e6d2d6e6641a39a0a9acd4f931ac2:
+    span:
+      start: 9610
+      end: 10512
+    imgnum: 16
+    reference: I3CN18870016.jpg
+  c47fe55fe41747f1b9fafccce19973a5:
+    span:
+      start: 10513
+      end: 11414
+    imgnum: 17
+    reference: I3CN18870017.jpg
+  a0bf901dc6264dadab2ebe17a7680956:
+    span:
+      start: 11415
+      end: 12315
+    imgnum: 18
+    reference: I3CN18870018.jpg
+  b49a3d14fa9f48499314151e2c166939:
+    span:
+      start: 12316
+      end: 13210
+    imgnum: 19
+    reference: I3CN18870019.jpg
+  195a7ea2e33744859f00eea4cf3f785c:
+    span:
+      start: 13211
+      end: 14106
+    imgnum: 20
+    reference: I3CN18870020.jpg
+  35d92033761f4160954d853bf69afb54:
+    span:
+      start: 14107
+      end: 15001
+    imgnum: 21
+    reference: I3CN18870021.jpg
+  f2c3903c6c2d4192b497d7ac671c239c:
+    span:
+      start: 15002
+      end: 15937
+    imgnum: 22
+    reference: I3CN18870022.jpg
+  dd1d32efe9684798bb4d97abe594e406:
+    span:
+      start: 15938
+      end: 16846
+    imgnum: 23
+    reference: I3CN18870023.jpg
+  c4feab666e63484a82e136a167df652c:
+    span:
+      start: 16847
+      end: 17765
+    imgnum: 24
+    reference: I3CN18870024.jpg
+  75e604dfeef64aab85ee49ce4e223b92:
+    span:
+      start: 17766
+      end: 18682
+    imgnum: 25
+    reference: I3CN18870025.jpg
+  d87ce60a309c44e593c41a53f29cc134:
+    span:
+      start: 18683
+      end: 19632
+    imgnum: 26
+    reference: I3CN18870026.jpg
+  0da1e94e0e484baba6a8bf795c7991da:
+    span:
+      start: 19633
+      end: 20551
+    imgnum: 27
+    reference: I3CN18870027.jpg
+  0e23e65559a54e5384a24141586aa503:
+    span:
+      start: 20552
+      end: 21498
+    imgnum: 28
+    reference: I3CN18870028.jpg
+  518e80fb60f847f0b3aac1c99963c2a3:
+    span:
+      start: 21499
+      end: 22431
+    imgnum: 29
+    reference: I3CN18870029.jpg
+  8541ec4c347541f187cc0d546e502f07:
+    span:
+      start: 22432
+      end: 23334
+    imgnum: 30
+    reference: I3CN18870030.jpg
+  1a02bec6c81f4da583b03bd3cea69dad:
+    span:
+      start: 23335
+      end: 24229
+    imgnum: 31
+    reference: I3CN18870031.jpg
+  bc97b83cba5f45d98df72e2e930955cf:
+    span:
+      start: 24230
+      end: 25157
+    imgnum: 32
+    reference: I3CN18870032.jpg
+  d948e60ec9f04d1099ffb946cafdc827:
+    span:
+      start: 25158
+      end: 26059
+    imgnum: 33
+    reference: I3CN18870033.jpg
+  4f90ef65a13f4d1b902fa6768d7bdae7:
+    span:
+      start: 26060
+      end: 26987
+    imgnum: 34
+    reference: I3CN18870034.jpg
+  8e943b0c5f6b4723a15c7bcdab7fc05b:
+    span:
+      start: 26988
+      end: 27904
+    imgnum: 35
+    reference: I3CN18870035.jpg
+  77c06569f30b4e17bc863d462dfd9db3:
+    span:
+      start: 27905
+      end: 28855
+    imgnum: 36
+    reference: I3CN18870036.jpg
+  63acd6194e714bcb9beec3d6c5d660af:
+    span:
+      start: 28856
+      end: 29782
+    imgnum: 37
+    reference: I3CN18870037.jpg
+  ec99800321324e6e96380962ca7c81ed:
+    span:
+      start: 29783
+      end: 30682
+    imgnum: 38
+    reference: I3CN18870038.jpg
+  0a9b28550aca4fab8e8532aef30f37f2:
+    span:
+      start: 30683
+      end: 31590
+    imgnum: 39
+    reference: I3CN18870039.jpg
+  1a18f13f523f4ebe9dba2fd63f1d152d:
+    span:
+      start: 31591
+      end: 32490
+    imgnum: 40
+    reference: I3CN18870040.jpg
+  610c4f88d2ec4f83b5376cb120741365:
+    span:
+      start: 32491
+      end: 33393
+    imgnum: 41
+    reference: I3CN18870041.jpg
+  36278e2711c141eb8742fb70e0c386d0:
+    span:
+      start: 33394
+      end: 34262
+    imgnum: 42
+    reference: I3CN18870042.jpg
+  208eee5401674dbda73383d68f91df0d:
+    span:
+      start: 34263
+      end: 35094
+    imgnum: 43
+    reference: I3CN18870043.jpg
+  6d8547c4079f4d8e9c4e617ed1683f78:
+    span:
+      start: 35095
+      end: 35897
+    imgnum: 44
+    reference: I3CN18870044.jpg
+  64b0c5ece77844de8f6e71bee481c4ac:
+    span:
+      start: 35898
+      end: 36296
+    imgnum: 45
+    reference: I3CN18870045.jpg
+  f61506b7a1e14fdf8aae7ccd58a146f2:
+    span:
+      start: 36297
+      end: 36299
+    imgnum: 46
+    reference: I3CN18870046.jpg
